@@ -2,10 +2,10 @@
 # In this handy file you can change packages that will be installed.
 # I will preinstall some for better experience in ttys ;)
 
-{pkgs}: 
+{pkgs, ...}: 
 
 {
-  enviroment.systemPackages = with pkgs; [
+  environment.systemPackages = with pkgs; [
     helix  # File editor
     nil    # Language server for nix
 

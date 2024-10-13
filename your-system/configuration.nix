@@ -6,7 +6,7 @@
 {
   imports = [ 
       ./hardware-configuration.nix
-      ./modules/minimal/bundle.nix # minimal bundle to run pc
+      ./minimal/bundle.nix # minimal bundle to run pc
       ./your-packages.nix # Including packages in system :)
     ];
 
