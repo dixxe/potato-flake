@@ -19,7 +19,7 @@ You can easily understand everything by reading manual :)
 6. Change password of user. `passwd admin` (admin is name of user)
 7. Reboot to make sure everything is working
 
-Congratulations! Now you can head to the [[what-next]] and start tinkering!
+Congratulations! Now you can head to the [post-install guide](what-next.md) and start tinkering!
  
 
 
