@@ -8,6 +8,8 @@
       ./hardware-configuration.nix
       ./minimal/bundle.nix # minimal bundle to run pc
       ./your-packages.nix # Including packages in system :)
+      
+      # ./optional/hyprland.nix # - Optional display manager!
     ];
 
   disabledModules = [
