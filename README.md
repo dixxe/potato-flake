@@ -1,6 +1,9 @@
 # Potato flake
 Lightweight and easy to understand nixOS flake!
 
+![potato_nix](https://github.com/ficache/potato-flake/blob/main/potato_nix.png?raw=true)
+
+
 ## Purpose of flake
 Create a small, easy to understand and scale flake. 
 It's aimed on newbies in nixOS those want to understand flakes and don't want
