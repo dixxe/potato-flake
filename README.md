@@ -10,6 +10,16 @@ All .nix files were formated and don't contain some bizzare stuff.
 You can easily understand everything by reading manual :)
 
 ## How to install?
-*WIP*
+
+1. Enter an environment with git. `nix-shell -p git`
+2. Clone this repo. `git clone https://github.com/ficache/potato-flake.git`
+3. Change directory. `cd potato-flake`
+4. Read comments in files, pay attention to /your-system/hardware-configuration.nix
+5. Build system! `sudo nixos-rebuild switch --flake .`
+6. Change password of user. `passwd admin` (admin is name of user)
+7. Reboot to make sure everything is working
+
+Congratulations! Now you can head to the [[what-next]] and start tinkering!
+ 
 
 
