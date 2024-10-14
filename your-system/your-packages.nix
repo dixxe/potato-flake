@@ -3,7 +3,10 @@
 # I will preinstall some for better experience in ttys ;)
 
 {pkgs, ...}: 
-
+# Basic instruction how to deal and install packages.
+# 1. Check `man configuration.nix` for specific program. (e.g. hyprland)
+# 2. If you don't find it in manual then check: https://search.nixos.org/packages
+# 3. Add package name to the array bellow :)
 {
   environment.systemPackages = with pkgs; [
     helix  # File editor
