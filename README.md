@@ -23,6 +23,19 @@ You can easily understand everything by reading manual :)
 7. Reboot to make sure everything is working
 
 Congratulations! Now you can head to the [post-install guide](what-next.md) and start tinkering!
+
+## I want to know more!
+Sure thing! Here some amazing books and guides for you! 
+I recomend to read them :)
+
+[nixos-and-flakes book](https://nixos-and-flakes.thiscute.world/)
+
+[nixos.wiki](https://nixos.wiki/wiki/Main_Page)
+
+[Nix-pills aka nix language wiki](https://nixos.org/guides/nix-pills/)
+
+
+
  
 
 
