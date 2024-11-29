@@ -34,7 +34,7 @@ I recomend to read them :)
 
 [Nix-pills aka nix language wiki](https://nixos.org/guides/nix-pills/)
 
-[Even more knowledge!!]https://bsky.app/profile/isabelroses.com/post/3lbrcquin3s26
+[Even more knowledge!!](https://bsky.app/profile/isabelroses.com/post/3lbrcquin3s26)
 
 
 
