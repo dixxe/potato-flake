@@ -17,6 +17,8 @@
     bastet # Tetris :)
     nsnake # Snake! :>
 
+    lynx # If you need to connect to the web via terminal use this! 
+
     # Feel free to add and change!
     
   ];

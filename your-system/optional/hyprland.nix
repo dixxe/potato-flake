@@ -3,7 +3,9 @@
   # Add system wide hyprland with some QoL packages.
   # You can configure hyprland in ~/.config/hypr/hyprland.conf
 
-  # For amateur nixOS users look at home-manager and how to implement it in it :)
+  # For amateur users and more nixOS experience look at home-manager and how to implement it in it :)
+  # https://nixos.wiki/wiki/Home_Manager
+  # Because writing configs in nixOS should be via Nix language too.
   programs.hyprland = {
     enable = true;
   };

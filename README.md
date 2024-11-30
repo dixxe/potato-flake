@@ -28,13 +28,17 @@ Congratulations! Now you can head to the [post-install guide](what-next.md) and 
 Sure thing! Here some amazing books and guides for you! 
 I recomend to read them :)
 
+[Amazing youtuber that explains Nix ecosystem](https://www.youtube.com/@vimjoyer)
+
 [nixos-and-flakes book](https://nixos-and-flakes.thiscute.world/)
 
-[nixos.wiki](https://nixos.wiki/wiki/Main_Page)
+[Official NixOS wiki](https://wiki.nixos.org/wiki/NixOS_Wiki)
 
-[Nix-pills aka nix language wiki](https://nixos.org/guides/nix-pills/)
+[Unofficial NixOS wiki](https://nixos.wiki/wiki/Main_Page)
 
-[Even more knowledge!!](https://bsky.app/profile/isabelroses.com/post/3lbrcquin3s26)
+[Nix-pills, small blogs with usefull information](https://nixos.org/guides/nix-pills/)
+
+[Nix ecosystem docs and examples](https://nix.dev/)
 
 
 
