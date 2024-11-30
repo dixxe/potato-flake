@@ -1,6 +1,6 @@
 # Now I should remind you once again
 
-![friendly_reminder about nix](https://github.com/ficache/potato-flake/blob/main/friendly_reminder?raw=true)
+![friendly_reminder about nix](https://github.com/ficache/potato-flake/blob/main/friendly_reminder.webp?raw=true)
 
 # I'm installed system what I should do next?
 First of all if you want to change flake you should delete `./git` folder or
